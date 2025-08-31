@@ -1,7 +1,7 @@
 
 <div align="center">
   <h2>push_swap - 42 project</h2>
-  <img src="./bin/push_swap.png"  />
+  <img src="./img/push_swap.png"  />
   <br>
 </div>
 
@@ -116,7 +116,7 @@ Requirements:
 - `make`
 
 ```bash
-git clone https://github.com/<LogUmi>/push_swap.git
+git clone https://github.com/LogUmi/push_swap.git
 cd push_swap
 make
 ```
