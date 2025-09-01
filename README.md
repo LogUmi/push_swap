@@ -193,6 +193,7 @@ Suggested behaviors:
 ├── checker_linux		# push_swap checker for linux
 ├── checker_mac			# push_swap checker for mac os
 ├── fr.subject.pdf	    # Project 42 subject
+├── licence.txt		    # License MIT
 ├── Makefile
 └── README.md
 ```
